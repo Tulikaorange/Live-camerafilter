@@ -1,0 +1,24 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f9;
+}
+video, canvas {
+  display: block;
+  margin: 20px auto;
+  border: 2px solid #ccc;
+}
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
+  border: none;
+  background-color: #007bff;
+  color: white;
+  border-radius: 5px;
+}
+button:hover {
+  background-color: #0056b3;
+}
